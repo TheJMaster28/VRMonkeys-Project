@@ -1,5 +1,7 @@
 VRMonkey's Search And Rescue Game
 
+May 2019
+
 Authors:
 Jonathan Ayavar,
 Jeffrey Lansford,
