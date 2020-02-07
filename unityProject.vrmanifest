@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.courtyard.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Documents\\VRMonkeysPro\\VRMonkeys_Project2\\SAR\\Courtyard\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SearchAndRescue [Testing]"
+        }
+      }
+    }
+  ]
+}
